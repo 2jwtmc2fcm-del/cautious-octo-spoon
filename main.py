@@ -1,0 +1,1 @@
+print("Bot crypto attivo 🚀")
